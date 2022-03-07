@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariopicassounc. Computer science student at FAMAF UNC.
 - 
-- 👀 I’m interested in security and performance in Ethereum smart contracts.
+- 👀 I’m interested in security and gas optimization in Ethereum smart contracts.
 - 
 - 🌱 I’m currently learning how the virtual machine of Ethereum works.
 - 
