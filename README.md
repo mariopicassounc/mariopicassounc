@@ -1,8 +1,6 @@
 Computer science student at FAMAF UNC.
 
-I’m interested in security, gas optimization and scalability in Ethereum.
-
-I’m currently learning how the Ethereum Virtual Machine works.
+Interested in distributed systems and blockchain.
 
 Mail: mariopicasso@mi.unc.edu.ar 
 
